@@ -1,30 +1,6 @@
 # -YAZILIM-YA-AM-D-NG-MODELLER-VE-KAR-ILA-TIRILMALARI
  YAZILIM YAŞAM DÖNGÜ MODELLERİ  VE KARŞILAŞTIRILMALARI
 
-
- 
-
-
-YAZILIM YAŞAM DÖNGÜ MODELLERİ 
-VE KARŞILAŞTIRILMALARI
-
-
-
-
-
-
-
-
-200604074 Recep İbrahim Özer
-https://medium.com/@r.ibrahimozer
-
-
-
-
-
-
-BAHAR 2022-2023
-23 MART 2023
 Giriş
    Yazılım geliştirme, son yıllarda hızla gelişen teknolojiler ile önemli bir hale gelmiştir. Bu süreçte yazılımın geliştirilmesi, test edilmesi, bakımı ve yönetimi için belirli bir süreç izlenir. Bu süreç, yazılım yaşam döngüsü olarak adlandırılır.
 
@@ -36,7 +12,6 @@ Yazılım Yaşam Döngü Modelleri
    Şelale metodolojisi, bir projenin başından sonuna kadar doğrusal bir ilerlemeyi vurgulayan bir proje yönetimi yaklaşımıdır. Şelale geliştirme modeli, büyük ölçekte inşaat sektöründe kullanılırken . Yazılım geliştirme için ilk kez benimsendiğinde, hiçbir alternatif olmadığı için benimsenmiştir. Proje faaliyetlerinin lineer ardışık aşamalara bölünmüştür , yani her aşama bir öncekinin çıktılarına bağlıdır. Şelale modeli, yazılım geliştirmede kullanılan en eski yazılım yaşam döngüsü yaklaşımıdır. 
    Belirlenen her faaliyete ilişkin maliyet ve zaman tahminleri yapılır her aşama belgelenir. Bir Şelale projesinde, parametreler yol boyunca değişirse proje üzerinde değişiklik yapmak oldukça maliyetlidir.
  
-Resim 1.1 Şelale Modeli Süreci
    1.2 Şelale Modeli Aşamaları
 Bir Şelale sürecinde 5 ortak aşama şunlardır;
 •	Gereksinimler: Genellikle tek bir belgede yer alan yazılı gereksinimler, maliyetler , varsayımlar,  riskler, bağımlılıklar,  başarı ölçütleri ve tamamlanma zaman çizelgeleri dahil olmak üzere projenin her aşamasını tanımlamak için kullanılır.
@@ -62,8 +37,6 @@ Bir Şelale sürecinde 5 ortak aşama şunlardır;
    2.1 Spiral Modeli Nedir?
    Spiral model, risk odaklı bir yazılım geliştirme süreci modelidir. .Prototip oluşturmanın yinelemeli özelliğini doğrusal sıralı modelin kontrollü ve sistematik yönleriyle birleştiren evrimsel bir yazılım süreç modelidir. Proje aşamaları sarmallarla ifade edilir Ürünü geliştirmek için gereken aşamaların tam sayısı, proje risklerine bağlı olarak proje yöneticisi tarafından değiştirilebilir.
 
- 
-Resim 2.1 Spiral Model Süreci
 
    2.2 Spiral Model Aşamaları 
    Bir Spiral sürecindeki ortak aşamalar şunlardır;
@@ -85,8 +58,6 @@ Resim 2.1 Spiral Model Süreci
    3.1 V-Model Nedir?
    V-Model, Verification ve Validation model olarak da anılan doğrusal ve sıralı bir modeldir. Bu modelde, yazılım yaşam döngüsünün her aşaması bir sonraki aşama başlamadan önce tamamlanmalıdır. Şelale modelinde olduğu gibi sıralı bir tasarım süreci izler. Karşılık gelen her geliştirme aşaması için bir test aşamasının ilişkilendirilmesine dayanır. Her geliştirme faaliyeti için buna karşılık gelen bir test faaliyeti vardır.
 
- 
-Resim 3.1 V-Model Süreci
 
    3.2 V-Model Model Aşamaları 
 1.	Kullanıcı modeli: geliştirme sürecinin kullanıcı ile olan ilişkisi tanımlanır. kullanıcı gereksinimlerinin analiz edildiği, olası çözüm yollarının araştırıldığı ve bir sistem tasarımı oluşturulduğu süreçtir.
@@ -107,7 +78,7 @@ Resim 3.1 V-Model Süreci
 4.1 Scrum Modeli Nedir?
    Scrum metodolojisi, yazılım geliştirme sürecinde dahil edilmesi gereken bir dizi çok tanımlanmış uygulama ve role dayanmaktadır. 12 çevik ilkenin, ürünün tüm ekip üyeleri tarafından kabul edilen bir bağlamda uygulanmasını ödüllendiren esnek bir metodolojidir. Scrum, Sprint adı verilen, genellikle 2 ila 4 hafta arasında değişen, kısa ve periyodik geçici bloklarda yürütülür. on veya daha az üyeden oluşan ekipler için tasarlanmıştır Hesap verebilirliği vurgular ve iyi tanımlanmış bir hedefe doğru tekrarlanan ilerlemedir.
  
-Resim 4.1 Scrum Modeli Süreci
+
  
    4.2 Scrum Modeli’nin Aşamaları
 1.	Product Backlog: müşteri ile proje başlangıcında belirlenen yüksek seviyeli gereksinim listesidir.
@@ -133,8 +104,7 @@ Resim 4.1 Scrum Modeli Süreci
 Sonuç
    Yazılım yaşam döngüsü modelleri karşılaştırıldığında, her birinin farklı avantajları ve dezavantajları bulunmaktadır. Bununla birlikte, günümüzde en popüler model olarak SCRUM modeli öne çıkmaktadır. SCRUM modeli, esnek yapısı ve sürekli geri bildirim alınması sayesinde karmaşık ve değişken projelerde tercih edilmektedir.
 
- 
-Şekil 1.1 Modellerin Karşılaştırılması
+
 
    Projenin, boyutuna ve karmaşıklığına bağlı olarak diğer modellerin de tercih edilebileceği unutulmamalıdır. Örneğin, küçük ve basit projeler için Waterfall modeli uygun olabilirken, büyük ve karmaşık projelerde V Modeli veya Spiral modeli tercih edilebilir. Ayrıca, projenin özellikleri de seçilecek modeli etkileyebilir. Örneğin, bir projede risk analizi önemliyse Spiral modeli tercih edilebilir.
 
